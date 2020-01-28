@@ -1,0 +1,23 @@
+{
+  "name": "json-string-merge",
+  "version": "1.0.0",
+  "description": "Merge two JSON strings while keeping both properties. ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node example/example01.js"
+  },
+  "author": "Tom Misawa <riversun.org@gmail.com> (https://github.com/riversun)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riversun/json-string-merge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riversun/json-string-merge/issues"
+  },
+  "homepage": "https://github.com/riversun/json-string-merge#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "merge-deeply": "^1.0.1"
+  }
+}
